@@ -1,0 +1,18 @@
+newmtl Mia_099900_MotherAndChild_64k_OBJ
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Mia_099900_MotherAndChild_64k_OBJ.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Mia_099900_MotherAndChild_64k_OBJ2:Mia_099900_MotherAndChild_64k_OBJ
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Mia_099900_MotherAndChild_64k_OBJ.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

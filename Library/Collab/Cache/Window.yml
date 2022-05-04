@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
+    - "Assets/Models/Burkina-Faso/Hare/hare-3d-fa\u0308rdig modell/Hare.mtl"
+    - "Assets/Models/Burkina-Faso/Hare/hare-3d-fa\u0308rdig modell/hare-3d-fa\u0308rdig
+      modell.mtl.meta"
+    - "Assets/Models/Greece/St\xE8le Fun\xE9raire D Aphtonetos/source/Ste\u0300le
+      fune\u0301raire d aphtonetos - CapRe/aphtonetos_-_LowPoly.obj"
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/QualitySettings.asset
+    - 
+    m_Values: 00000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0

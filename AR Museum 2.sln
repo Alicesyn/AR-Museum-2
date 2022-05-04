@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{f50fa87a-9d3c-2b93-6553-6bf8fd9d56bf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.MixedReality.Toolkit.Demos.UX.Interactables", "Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.csproj", "{742f0fe9-0b89-5fdb-b556-a40a5cc45ea6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.MixedReality.Toolkit.Demos.Audio", "Microsoft.MixedReality.Toolkit.Demos.Audio.csproj", "{2cce9de2-d129-1321-d773-4e76b22be870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{40cdd099-24e9-cf09-a2d4-c01663941557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f50fa87a-9d3c-2b93-6553-6bf8fd9d56bf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f50fa87a-9d3c-2b93-6553-6bf8fd9d56bf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f50fa87a-9d3c-2b93-6553-6bf8fd9d56bf}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f50fa87a-9d3c-2b93-6553-6bf8fd9d56bf}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742f0fe9-0b89-5fdb-b556-a40a5cc45ea6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742f0fe9-0b89-5fdb-b556-a40a5cc45ea6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742f0fe9-0b89-5fdb-b556-a40a5cc45ea6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742f0fe9-0b89-5fdb-b556-a40a5cc45ea6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2cce9de2-d129-1321-d773-4e76b22be870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2cce9de2-d129-1321-d773-4e76b22be870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2cce9de2-d129-1321-d773-4e76b22be870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2cce9de2-d129-1321-d773-4e76b22be870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40cdd099-24e9-cf09-a2d4-c01663941557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40cdd099-24e9-cf09-a2d4-c01663941557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40cdd099-24e9-cf09-a2d4-c01663941557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40cdd099-24e9-cf09-a2d4-c01663941557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

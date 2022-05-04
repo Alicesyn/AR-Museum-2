@@ -1,0 +1,19 @@
+newmtl Solid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+
+newmtl 200220_mia337_001753_65kMesh_OBJ
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+Ns 0.0
+illum 0
+map_Kd 200220_mia337_001753_65kMesh_OBJ.jpg
+map_Bump 200220_mia337_001753_65kMesh_OBJ_normal.jpg
+map_ao 200220_mia337_001753_65kMesh_OBJ_occlusion.jpg
+

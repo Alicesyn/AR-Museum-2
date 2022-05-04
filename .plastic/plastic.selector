@@ -1,0 +1,3 @@
+rep "AR Museum 2@Stealth_Developers_2@cloud"
+  path "/"
+    smartbranch "/main"
